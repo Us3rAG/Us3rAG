@@ -1,4 +1,4 @@
-<a>### Hi human👋</a>
+<a align="center">### Hi human👋</a>
 
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
